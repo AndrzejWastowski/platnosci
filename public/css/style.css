@@ -1,0 +1,27 @@
+.dropdown:hover .dropdown-menu {display: block;}
+
+.section {
+    border: 1px solid #e0e0e0;
+    padding: 15px;
+}
+
+@media (min-width: 768px) {
+    .carousel-multi-item-2 .col-md-3 {
+    float: left;
+    width: 20%;
+    max-width: 100%; } }
+    
+    .carousel-multi-item-2 .card img {
+    border-radius: 2px; }
+
+.teal-text {
+    color:rgb(96, 160, 255) !important;
+}
+.bg-featured {
+
+background-color:lightcyan;
+}
+.stopoverflow {
+    word-break: break-word;
+  word-wrap: break-word;
+}
